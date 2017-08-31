@@ -10,7 +10,7 @@ I write code and I also make video games.
 
 ### My games
 
-You can play some of my games here at (https://webDva.github.io/games).
+You can play some of my games here at [https://webDva.github.io/games](https://webDva.github.io/games).
 
 ### Contact me
 
