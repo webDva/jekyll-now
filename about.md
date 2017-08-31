@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name's Jermaine Easterling. I also use the psuedonym Web D.va, inspired by one of the waifus from my harem.
 
-### More Information
+I write code and I also make video games.
 
-A place to include any other types of information that you'd like to include about yourself.
+### My games
+
+You can play some of my games here at https://webDva.github.io/games.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[webDva@gmail.com](mailto:webDva@gmail.com)
