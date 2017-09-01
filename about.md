@@ -10,7 +10,7 @@ I write code and make video games.
 
 I mostly make my games as web games, benefitting from the convenience of HTML5. I have a bias toward things like Typescript and Phaser, because they make me more productive.
 
-I'm also interested in machine learning and computer science stuff like algorithm analysis and data structures.
+I'm also interested in machine learning and computer science stuff like algorithm analysis and data structures. It's important to understand the fundamentals of computer science in order to advance to the next level.
 
 # The trendy, hip social section
 
@@ -22,4 +22,6 @@ And I like Dragonball Super, the Fate series, Hunter x Hunter, Naruto, the Witch
 
 ### Contact me
 
-[webDva@gmail.com](mailto:webDva@gmail.com)
+ * [webDva@gmail.com](mailto:webDva@gmail.com)
+
+ * My DM's are open: [https://twitter.com/webDva](https://twitter.com/webDva)
