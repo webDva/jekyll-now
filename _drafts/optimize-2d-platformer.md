@@ -3,7 +3,7 @@ layout: post
 title: Let's Optimize a 2D Platformer!
 ---
 
-I have a game, [Super Simple and Small 2D Platformer Game](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html), that runs slow on mobile devices. I want to solve that problem.
+I have a game, [Super Simple and Small 2D Platformer Game](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html), that runs slow on mobile devices.
 
 # Introduction
 
@@ -97,7 +97,9 @@ this.collectibles.callAll("animations.play", "animations", "hover");
 
 I had another trouble with using a tilemap.
 
-The player would sometimes pass through dlsjf. I had to fix this with the below code fix:
+The player would sometimes pass through floor, especially from long jumps. Looking for answers on the internet, I discovered that the physics collision calculations might not be fast enough to prevent the player object from passing though tiles. That might be called a race condition--I'm not sure--and such problems in software development are involving.
+
+I had to fix this with the below code fix. Not really conduicive to the player experience:
 
 {% highlight typescript %}
 // If the player goes through the tiles touching the bottom world bounds, restart the GameState
@@ -112,6 +114,17 @@ this.player.body.onWorldBounds.add((sprite: Phaser.Sprite, up: boolean, down: bo
 
 TO find out if my concern is true, I would need to delve into the Phaser source code to see how its Tilemap functionality affects my game.
 
-# Conclusion
+## Collision checking
+
+{% highlight typescript %}
+// collisions for the player avatar
+this.game.physics.arcade.collide(this.player, this.platformLayer); // player collides with platform layer tiles
+this.game.physics.arcade.collide(this.player, this.hazardsLayer, this.hazardCollideCallback, null, this);
+this.game.physics.arcade.overlap(this.player, this.collectibles, this.collectibleOverlapCallback, null, this);
+{% endhighlight %}
+
+The above code gets executed regularly and I beleive that it may be coastly as these lines perform collision checking.
+
+# The game still lags, D.va
 
 The title of this post turned out to actually be click-bait, since I didn't actually optimize the game. It honestly doesn't matter, as I seek to make other games, benefitting from my efforts with this game. The goal, though, was to be transparent, to show how I approach problems in game development.
