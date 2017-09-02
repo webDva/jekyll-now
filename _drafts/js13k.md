@@ -7,6 +7,8 @@ title: js13k 2017 game jam
 
 # The Kontra library
 
+# The game itself
+
 # Why I quit the game jam
 
 # What hapens now
