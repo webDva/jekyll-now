@@ -34,7 +34,7 @@ render() {
 
 This is the framerate for the desktop version:
 
-![60 fps]({{ site.url }}/images/optimize2Dplatformer/60_fps_screen.png)
+![60 fps]({{ site.url }}/images/optimize2Dplatformer/60_fps_screen.PNG)
 
 And this is the framerate for a mobile phone:
 
