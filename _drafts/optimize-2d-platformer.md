@@ -9,9 +9,11 @@ I have a game, [Super Simple and Small 2D Platformer Game](https://webdva.github
 
 The game is a 2D platformer. It's small and extremely simple, hence the name "Super Simple and Small 2D Platformer Game."
 
+It's, honestly, the best looking game I've made yet, because the visual design is so extremely minimalistic and thus polished. To be funny, you can say that good graphics are often the cause of lag.
+
 [You can play it here](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html).
 
-It's an HTML5 game made with the Phaser framework. I used Typescript, my first use of the language.
+It's an HTML5 game made with the Phaser framework. I used Typescript, my first use of it and its encapsulated ES6.
 
 You can also view the [full source code here](https://github.com/webDva/Super-Simple-and-Small-2D-Platformer-Game).
 
@@ -40,7 +42,7 @@ And this is the framerate for a mobile phone:
 
 When running on a desktop browser, the game seems to average at 60 frames per second, but on a smartphone, it has a low average of 28 frames per second.
 
-So the framerate does get lower on mobile devices.
+So, the framerate does get lower on mobile devices.
 
 # Tilemaps
 
@@ -50,7 +52,7 @@ The Phaser docmentation defines a tile map layer as
 
 > A single layer within a Tilemap. Extends from Phaser.Sprite and is responsible for rendering itself.
 
-A Phaser.Sprite is a regular sprite that gets drawn every frame. So you can conclude that a tilemap is a sprite that gets drawn as a level in the game every frame.
+A Phaser.Sprite is a regular sprite that gets drawn every frame. So, you can conclude that a tilemap is a sprite that gets drawn as a level for a game every frame.
 
 ## A large art asset
 
@@ -138,4 +140,6 @@ The above code gets executed regularly and I believe that it may be costly in te
 
 # Conclusion
 
-The title of this post actually turned out to be click-bait, since I didn't actually optimize the game. I'm not really motivated enough to actually implement the above proposed solution. It honestly doesn't matter, as I'm going to make other games, benefiting from my efforts with this game. The goal of this post, though, was to be transparent, to show how I approach problems in game development.
+The title of this post actually turned out to be click-bait, since I didn't actually optimize the game. I'm not really motivated enough to actually implement the above proposed solution. It honestly doesn't matter, as I'm going to make other games, benefiting from my efforts with this game.
+
+The goal of this post, though, was to be transparent, to show how I approach problems in game development.
