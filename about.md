@@ -8,9 +8,9 @@ My name's Jermaine Easterling. I also use the psuedonym Web D.va, inspired by on
 
 I write code and make video games.
 
-I mostly make my games as web games, benefitting from the convenience of HTML5. I have a bias toward things like Typescript and Phaser, because they make me more productive.
+I mostly make my games as web games, benefitting from the convenience of HTML5. I have a bias toward things like Typescript and Phaser.
 
-I'm also interested in machine learning and computer science stuff like algorithm analysis and data structures. It's important to understand the fundamentals of computer science in order to advance to the next level.
+I also like to devote my time to understanding machine learning and other computer science stuff like algorithms and data structures.
 
 # The trendy, hip social section
 
