@@ -22,6 +22,6 @@ And I like Dragonball Super, the Fate series, Hunter x Hunter, Naruto, the Witch
 
 ### Contact me
 
- * [webDva@gmail.com](mailto:webDva@gmail.com)
+ * [webNoDva@gmail.com](mailto:webNoDva@gmail.com)
 
  * My DM's are open: [https://twitter.com/webDva](https://twitter.com/webDva)
