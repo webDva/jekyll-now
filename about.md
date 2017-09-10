@@ -4,21 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name's Jermaine Easterling. I also use the psuedonym Web D.va, inspired by one of the waifus in my harem.
+My name's Jermaine Easterling. I also use the psuedonym Web D.va inspired by one of the waifus in my harem.
 
-I write code and make video games.
-
-I mostly make my games as web games, benefitting from the convenience of HTML5. I have a bias toward things like Typescript and Phaser.
-
-I also like to devote my time to understanding machine learning and other computer science stuff like algorithms and data structures.
-
-# The trendy, hip social section
-
-I'm a big fan of weightlifting and healthy eating. It's so that I can become stronger than a hakaishin.
-
-I also like learning the Japanese language.
-
-And I like Dragonball Super, the Fate series, Hunter x Hunter, Naruto, the Witcher lore, Dark Souls and Bloodborne lore, and other things too!
+I write code and make video games, with goals to level up my web development skills and my computer science knowledge. Besides coding, my other interests are weightlifting, learning Japanese, and being inspired by fiction.
 
 ### Contact me
 
