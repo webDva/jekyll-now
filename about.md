@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name's Jermaine Easterling. I also use the psuedonym Web D.va inspired by one of the waifus in my harem.
-
-I write code and make video games, with goals to level up my web development skills and my computer science knowledge. Besides coding, my other interests are weightlifting, learning Japanese, and being inspired by fiction.
+My name's Jermaine Easterling. I also use the psuedonym Web D.va, inspired by one of the waifus in my harem. Nonetheless, I am a confident and wholehearted individual with great charm, intelligence, and ambition. I write code, make video games, and realize ideas. Besides coding, my other interests include succeeding at fitness and health, learning the Japanese language and culture, and being inspired by fiction and art.
 
 ### Contact me
 
