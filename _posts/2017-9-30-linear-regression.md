@@ -2,6 +2,8 @@
 layout: post
 use_math: true
 title: Simple linear regression with Python!
+summary: Let's do simple linear regression!
+image: /assets/images/linear_regression/linearRegressionResults.png
 ---
 
 Web D.va's foray into statistical learning begins with creating a simple linear regression calculation function in Python. Ever since I started reading about statistical learning I've always wanted to implement a linear regression line in code myself!
@@ -12,7 +14,7 @@ A simple linear regression model can be used to statistically predict basic thin
 
 ## Definitions
 
-A simple linear regression line for elementary data points has the form of $y' = a + bx$.
+A simple linear regression line for elementary data points has the form of $\hat{y} = a + bx$.
 
 For a pair of a set of variables $x$ and $y$, the slope $b$ of the regression line can be defined as
 
