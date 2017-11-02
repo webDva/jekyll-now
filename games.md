@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Games
+permalink: /games/
 ---
-
-# Simple Linear Regression Calculator
-
-When I began reading about machine learning, I was always fascinated with the idea of simple linear regression, a fundamental concept of statistical learning that can help with understanding how machines can predict the future with data. I created a function in Python that calculates a simple linear regression line. I wrote a [blog post]({{ site.baseurl }}/linear-regression) about it.
 
 # *I Hate Coffee: だめです！*
 

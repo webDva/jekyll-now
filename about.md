@@ -8,7 +8,7 @@ My name's Jermaine Easterling. I also use the psuedonym *Web D.va*, inspired by 
 
 I identify as a hacker-hipster-hustler with software engineering capabilities that's data analytics-enabled.
 
-My last two video games, *I Hate Coffee: だめです！* and *Super Simple and Small 2D Platformer Game*, can be found [here](https://webdva.github.io/I-Hate-Coffee-/public_html/) and [here](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html).
+My best two games, *I Hate Coffee: だめです！* and *Super Simple and Small 2D Platformer Game*, can be found [here](https://webdva.github.io/I-Hate-Coffee-/public_html/) and [here](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html).
 
 Personally and social-wise (and for maintaining a typical work-life balance), my other interests include excelling at fitness and health, learning the Japanese language and culture, and being inspired by fiction and art.
 
