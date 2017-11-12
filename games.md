@@ -4,9 +4,13 @@ title: Games
 permalink: /games/
 ---
 
+# *Ketchup and Raisins!: イケナイコト！*
+
+A new game currently in the works. Web D.va's most ambitious one yet (hype)! [You can play it here](https://webdva.itch.io/ketchup-and-raisins).
+
 # *I Hate Coffee: だめです！*
 
-My latest completed game. [You can play it here](https://webdva.github.io/I-Hate-Coffee-/public_html/).
+[You can play it here](https://webdva.github.io/I-Hate-Coffee-/public_html/).
 
 # *Super Simple and Small 2D Platformer Game*
 

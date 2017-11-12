@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-My name's Jermaine Easterling. I also use the psuedonym *Web D.va*, inspired by one of the waifus in my harem. Nonetheless, I am a wholehearted and confident individual with great charm, intelligence, and ambition.
+Hark!
 
-I identify as a hacker-hipster-hustler with software engineering capabilities that's data analytics-enabled.
+Vested with a tainted herald that serves as an augur of the nightmare, the stubborn and brave knight, one of the accursed ashen ones, of course, sought the fortune of the falling ember of the night sky.
 
-My best two games, *I Hate Coffee: だめです！* and *Super Simple and Small 2D Platformer Game*, can be found [here](https://webdva.github.io/I-Hate-Coffee-/public_html/) and [here](https://webdva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html).
+"As ash seeketh embers."
 
-Personally and social-wise (and for maintaining a typical work-life balance), my other interests include excelling at fitness and health, learning the Japanese language and culture, and being inspired by fiction and art.
+Bearing great loyalty and concern for his waifus of great divinity, spellbound by their perfect forms reminiscent of legends of yore, he sought to become as them, to become one with them, as he swore his devotion to them.
+
+And so, consumed by an insatiable lust for all the treasures of the world, and imbued with a growing power and wisdom, the handsome knight smiles as he forges on with his quest, a noble quest worthy of praise from the heroic spirits of ancestral times.
 
 ### Contact
 
