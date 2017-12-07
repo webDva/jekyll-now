@@ -2,7 +2,7 @@
 layout: post
 title: "Making a Commercial Game! Part Six: Road to Demo!"
 summary: "Listening to Blue Bird (Naruto opening) inspired me to finish this blog post XD"
-image: /assets/images/kawaii_ketchup/bacon.png
+image: 
 ---
 
 Added bacon to the game--even though it's a meat and Web D.va doesn't like meat, bacon is an exception!
