@@ -4,9 +4,9 @@ title: Games
 permalink: /games/
 ---
 
-## *Ketchup and Raisins!: イケナイコト！*
+## *Kawaii Ketchup* (formerly *Ketchup and Raisins!: イケナイコト！*)
 
-A new game currently in the works. Web D.va's most ambitious one yet (hype)! [You can play it here](https://webdva.itch.io/ketchup-and-raisins).
+A new game currently in the works. Web D.va's most ambitious one yet (hype)! Will be released in 2018. [You can play it here](https://webdva.itch.io/ketchup-and-raisins).
 
 ## *I Hate Coffee: だめです！*
 
@@ -20,7 +20,9 @@ It *really* lags on mobile devices. [You can play it here](https://webdva.github
 
 My first ever web game made with Javascript. [You can play it here](https://webdva.github.io/Pantsu-Breakout-Game/public_html/).
 
-# I make other things too besides games!
+---
+
+I make other things too besides games!
 
 ## Baka Youtube to MP3 Converter
 
@@ -28,6 +30,6 @@ My first ever web game made with Javascript. [You can play it here](https://webd
 
 A web app that was made to let you make songs from Youtube videos.
 
-# Other projects
+## Other projects
 
 I have many other things that I have made or started to make. There are interesting stories associated with these other projects, but I don't consider these other projects relevant enough to warrant listing them here. You can find some of these projects on my [GitHub account](https://github.com/webDva).
