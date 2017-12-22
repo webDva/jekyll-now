@@ -6,7 +6,9 @@ permalink: /games/
 
 ## *Kawaii Ketchup* (formerly *Ketchup and Raisins!: イケナイコト！*)
 
-A new game currently in the works. Web D.va's most ambitious one yet (hype)! Will be released in 2018. [You can play it here](https://webdva.itch.io/kawaii-ketchup).
+A new game currently in the works. Web D.va's most ambitious one yet (hype)! Will be released in 2018.
+
+<iframe frameborder="0" src="https://itch.io/embed/193395" width="552" height="167"></iframe>
 
 ## *I Hate Coffee: だめです！*
 
