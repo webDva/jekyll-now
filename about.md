@@ -18,4 +18,4 @@ And so, consumed by an insatiable lust for all the treasures of the world, and i
 
  * [webNoDva@gmail.com](mailto:webNoDva@gmail.com)
 
- * My DM's are open: [https://twitter.com/webDva](https://twitter.com/webDva)
+ * My DM's are open: [@webDva](https://twitter.com/webDva)
