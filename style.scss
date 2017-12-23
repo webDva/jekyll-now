@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 22px/1.6 $helvetica;
+  font: 24px/1.6 $helvetica;
   color: $darkGray;
 }
 
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.9;
+  line-height: 1.7;
   margin: 1.1em 0 16px;
   padding: 0;
 
@@ -52,15 +52,15 @@ h1 {
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h4 {
-  font-size: 22px;
+  font-size: 24px;
   color: $gray;
 }
 
@@ -217,13 +217,13 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 22px;
+  font-size: 24px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 20px;
+    font-size: 22px;
   }
 
   a {
@@ -260,7 +260,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 24px;
+    font-size: 26px;
     font-style: italic;
   }
 
