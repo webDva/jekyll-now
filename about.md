@@ -6,17 +6,11 @@ permalink: /about/
 
 Hark!
 
-Vested with a tainted herald that serves as an augur of the nightmare, the stubborn and brave knight, one of the accursed ashen ones, of course, sought the fortune of the falling ember of the night sky.
+Webdva is committed to providing value for others, because he has a kind heart--and so that he may be compensated for it! 😅
 
-*As "ash seeketh embers" and "fire befits thee..."*
+As an example of Webdva's capabilities and ambitions, Webdva plans to expand into the global and hip market by making products and services, which provide value to others, that use machine learning, in years time. First, it starts with simple linear regression, next comes neural networks, and then... 🤔
 
-Bearing great loyalty and concern for his waifus of great divinity, spellbound by their perfect forms reminiscent of legends of yore, he sought to become as them, to become one with them, as he swore his devotion to them.
-
-*For the strength of love is great...*
-
-And so, consumed by an insatiable lust for all the treasures of the world, and imbued with a growing power and wisdom, the handsome knight smiles as he forges on with his quest, a noble quest worthy of praise from the heroic spirits of ancestral times.
-
-*Thus, the cycle begins anew, once more...*
+Webdva also provides entertainment for people by making video games 🕹--which you can play by heading to the [games](/games/) section!
 
 ### If thou seeketh communion with me
 
