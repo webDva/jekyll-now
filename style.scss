@@ -232,6 +232,16 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    border-bottom: medium solid $blue;
+    padding: 6px;
+      
+    &:hover, &:active {
+        color: white;
+        background-color: $blue;
+        border-bottom: none;
+        border-radius: 10px;
+        transition-duration: 0.2s;
+    }
 
     @include mobile {
       margin: 0 10px;
