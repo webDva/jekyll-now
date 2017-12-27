@@ -177,14 +177,20 @@ img {
     margin-bottom: 15px;
     padding: 5px;
   }
+    
+  @keyframes logoAnimation {
+      0% {transform: rotate(0deg) scale(1, 1);}
+      50% {transform: rotate(-45deg) scale(1.2, 1.2);}
+      100% {transform: rotate(0deg) scale(1, 1);}
+  }    
 
   img {
     border-radius: 5px;
-    transition-timing-function: ease-in;
-    transition-duration: 0.8s;
     
     &:hover, &:active {
-        transform: rotate(-45deg) scale(1.2, 1.2);
+        animation-name: logoAnimation;
+        animation-duration: 0.8s;
+        animation-timing-function: ease-in;
     }      
   }
 }
