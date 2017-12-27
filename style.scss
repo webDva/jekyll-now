@@ -180,6 +180,13 @@ img {
 
   img {
     border-radius: 5px;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+    
+    &:hover, &:active {
+        transform: rotate(-45deg);
+        transform: scale(1.6, 1.6);
+    }      
   }
 }
 
