@@ -1,3 +1,7 @@
+/** {
+    outline: 1px solid red;
+}*/
+
 html, body {
     width: 100%;
     height: 100%;
@@ -8,13 +12,71 @@ html, body {
     font-family: sans-serif;
 }
 
+.column {
+    float: left;
+}
+
 .main {
     position: relative;
-    float: left;
     margin: 0 auto;
     max-width: 600px;
     padding: 4rem 5rem;
+    padding-right: 0;
 }
+
+.nav {
+    position: relative;
+    margin: 0 auto;
+    padding: 4rem 0;
+    padding-left: 10rem;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+.links a {
+    font-size: 30px;
+    font-family: monospace;
+    color: white;    
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 6px;
+}
+
+.links a:hover, .links a:active {
+    color: #7000b7;
+    background-color: #E584DC;
+    text-decoration: none;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+}
+
+.logo img {
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.logo img:hover, .logo img:active {
+    animation-name: logoAnimation;
+    animation-duration: 0.8s;
+    animation-timing-function: ease-in;
+}  
+
+@keyframes logoAnimation {
+  0% {transform: rotate(0deg) scale(1, 1);}
+  60% {transform: rotate(-45deg) scale(1.2, 1.2);}
+  100% {transform: rotate(0deg) scale(1, 1);}
+} 
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
