@@ -18,7 +18,9 @@
     {% endif %}
 
     <!-- Twitter cards -->
+    {% if page.title %}
     <meta name="twitter:title"   content="{{ page.title }}" />
+    {% endif %}
 
     {% if page.summary %}
     <meta name="twitter:description" content="{{ page.summary }}" />
