@@ -13,7 +13,7 @@ html, body {
     float: left;
     margin: 0 auto;
     max-width: 600px;
-    padding: 5rem 5rem;
+    padding: 4rem 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .site-head {
     text-align: left;
-    margin-top: 6rem;
+    margin-top: 3rem;
     font-family: Verdana;
 }
 
@@ -43,11 +43,11 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0;
     width: auto;
     padding: 0;
-    margin: 2px auto;
+    margin: 0 auto;
+    margin-bottom: 2em;
 }
 
-.main .text {
-    margin-top: 1.75em;
+.main .pitch {
     font-size: 1.3em;
     line-height: 1.75;
 }
