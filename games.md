@@ -24,9 +24,13 @@ It *really* lags on mobile devices. [You can play it here](https://webdva.github
 
 My first ever web game made with Javascript. [You can play it here](https://webdva.github.io/Pantsu-Breakout-Game/public_html/).
 
----
+# I make other things too besides games!
 
-I make other things too besides games!
+## Reminduu
+
+[http://reminduu.com](http://reminduu.com)
+
+What's the most important thing to you right now? Well, Reminduu is there to remind you!
 
 ## Baka Youtube to MP3 Converter
 
