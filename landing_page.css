@@ -37,7 +37,7 @@ html, body {
 .nav {
     position: relative;
     margin: 0 auto;
-    padding: 0;
+    padding: 2rem 0;
     
     display: flex;
     flex-direction: column;
@@ -69,7 +69,7 @@ html, body {
 }
 
 .logo img {
-    margin-top: 8rem;
+    margin-top: 3rem;
     margin-bottom: 2rem;
     width: 200px;
     height: 200px;
