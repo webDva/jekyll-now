@@ -8,7 +8,7 @@ permalink: /about/
 
 Webdva is committed to providing value for others, because he has a kind heart--and so that he may be compensated for it! 😅
 
-Thou canst deem Webdva as an independent hacker, a serial startup founder, a serial entrepreneur, a sexy businessman, a hustler, a genius, a web developer, a unicorn--but know that Webdva is so much more!
+Thou canst deem Webdva an independent hacker, a startup founder, an entrepreneur, a sexy businessman, a hustler, a genius, a web developer, a unicorn--but know that Webdva is so much more!
 
 For example, Webdva is also a heroic spirit 👻, devoted knight ⛑️, and kind king 😇👑
 

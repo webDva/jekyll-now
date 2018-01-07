@@ -8,13 +8,13 @@ permalink: /games/
 
 Webdva's latest game, currently in the works 🚧 Webdva's most ambitious one yet! Will be released in the first quarter of 2018.
 
-You can play it here:
+You can play it--in your *web browser*, no less--here, right now, *for free*:
 
 <iframe frameborder="0" src="https://itch.io/embed/193395" width="552" height="167"></iframe>
 
 ## *I Hate Coffee: だめです！*
 
-[You can play it here](https://webdva.github.io/I-Hate-Coffee-/public_html/).
+[You can play this too](https://webdva.github.io/I-Hate-Coffee-/public_html/).
 
 ## *Super Simple and Small 2D Platformer Game*
 
