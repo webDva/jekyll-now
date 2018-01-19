@@ -4,7 +4,7 @@ title: 🎮 Games
 permalink: /games/
 ---
 
-## *Kawaii Ketchup* (formerly *Ketchup and Raisins!: イケナイコト！*)
+## *Kawaii Ketchup*
 
 Webdva's latest game, currently in the works 🚧 Webdva's most ambitious one yet! Will be released in the first quarter of 2018.
 
