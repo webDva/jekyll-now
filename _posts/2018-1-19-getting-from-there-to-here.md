@@ -113,7 +113,7 @@ Here's an update that I shipped yesterday, a progress indicator and popup text:
 
 # Abandoning *Reminduu*
 
-I'm not gonna move forward with this startup. I kinda regret paying $9 for the domain name even though I said that I believed in its potential. I can't afford the time to create a user accounts and database architecture with Twitter OAuth authentication and all the other backend server stuff that [*Reminduu*](https://www.reminduu.com/) would need, such as an e-mail API.
+I'm not gonna move forward with this startup. I kinda regret paying $9 for the domain name even though I said that I believed in its potential. I can't afford the time to create a user accounts and database architecture with Twitter OAuth authentication and all the other backend server stuff that [*Reminduu*](http://www.reminduu.com/) would need, such as an e-mail API.
 
 This is what it looks like now though:
 

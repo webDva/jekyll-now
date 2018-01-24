@@ -40,7 +40,7 @@ Much hasn't changed now really as I'm still trying to get software to do my bidd
 
 # Reminduu's progress
 
-I just realized that with [Reminduu](https://reminduu.com) I took on a monumental task, because I plan to have the user be able to login with Twitter or whatever (an account), thereby creating the need for a database. The scope is increasing!
+I just realized that with [Reminduu](http://reminduu.com) I took on a monumental task, because I plan to have the user be able to login with Twitter or whatever (an account), thereby creating the need for a database. The scope is increasing!
 
 Maybe I could change the planned architecture for this service. Even so, since we're thinking like that, it would be alright if this startup failed to help me execute my grand vision of generating income.
 
