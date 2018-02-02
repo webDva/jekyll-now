@@ -13,7 +13,7 @@ The design of the data wrangling method is robust and should be able to handle m
 
 I gained experience in a lot of things during the first week of creation of this new startup that I'm about to unleash onto the market:
 
-* How to deal with Node.js/Javascript promises
+* How to deal with Javascript promises
 * Navigating the Twitter API in order to mine data from that platform
 * Finally understanding the bag of words model and actually using it
 * Training and tuning neural networks
