@@ -6,9 +6,7 @@ permalink: /about/
 
 📢 Hark!
 
-I'm a product maker that has to be resourceful and create innovative solutions for unique problems. I have a passion for building products and connecting them with business models.
-
-However, the overall goal is to serve markets by delivering great value in order to obtain great returns.
+Webdva is a resourceful independent product maker that creates innovative solutions for unique problems. I have a passion for building web-based products and connecting them with business models. The overall goal, though, is to serve markets by delivering great value in order to obtain great returns.
 
 # 🎮 Games!
 
