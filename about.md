@@ -3,7 +3,7 @@ layout: page
 title: "Who am I?"
 permalink: /about/
 summary: "Webdva, your brave champion."
-image: {{ site.avatar }}
+image: /images/webDvaLogo.png
 ---
 
 I'm a digital product maker. I'm resourceful, independent, and I create innovative solutions for unique problems. I have a passion for developing products and connecting them with business models. The overall goal, though, is to serve markets by delivering great value in order to obtain great returns.
