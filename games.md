@@ -32,7 +32,7 @@ What's the most important thing to you right now? Well, Reminduu is there to rem
 
 [https://www.bakayoutube.com/](https://www.bakayoutube.com/)
 
-A web app that was made to let you make .mp3's 🎧🎶 from Youtube videos 📺
+I made a service that lets you download Youtube videos 📺 as .mp3's 🎧🎶
 
 # Other things and source code 👨‍💻
 

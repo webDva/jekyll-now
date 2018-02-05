@@ -68,7 +68,6 @@ html, body {
 .links a:hover, .links a:active {
     background-color: #7000b7;
     color: white;
-    border-radius: 10px;
     transition-duration: 0.2s;
 }
 
