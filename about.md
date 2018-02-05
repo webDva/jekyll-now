@@ -12,7 +12,7 @@ I'm a digital product maker. I'm resourceful, independent, and I create innovati
 
 # I can make web apps for you
 
-I can use my skills and experience gained from making my own digital products to help you with realizing your own ideas and passions. You can contact me via [e-mail](mailto:webNoDva@gmail.com) or [Twitter](https://twitter.com/webDva) to begin working with me.
+I can use the same skills and experience I use when making my own digital products to help you realize your own ideas. You can contact me via [e-mail](mailto:webNoDva@gmail.com) or [Twitter](https://twitter.com/webDva). I also use [Skype](live:webnodva@gmail.com).
 
 ## Services
 
@@ -39,3 +39,5 @@ I also provide entertainment for people by making video games--which you can pla
  * [webNoDva@gmail.com](mailto:webNoDva@gmail.com)
 
  * My twitter, DM's are open [@webDva](https://twitter.com/webDva)
+
+ * Skype ID [live:webnodva@gmail.com](live:webnodva@gmail.com)
