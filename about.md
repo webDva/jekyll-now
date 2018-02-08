@@ -6,13 +6,33 @@ summary: "Webdva, your brave champion."
 image: /images/webDvaLogo.png
 ---
 
-I'm a digital product maker. I'm resourceful, independent, and I create innovative solutions for unique problems. I have a passion for developing products and connecting them with business models. The overall goal, though, is to serve markets by delivering great value in order to obtain great returns.
+I'm resourceful, independent, and I create innovative solutions for unique problems. I have a passion for developing products and connecting them with business models. The overall goal, though, is to serve markets by delivering great value in order to obtain great returns.
+
+## Technical skills
+
+When it comes to making software, I have one year of experience with web development. Javascript (ES6 and Typescript too), HTML5, and CSS3. I also use modern Angular.
+
+I write Node.js and Express.js code to create backends. I do have familiarity with Python and Java, and I should probably use Python more when making products that use machine learning.
+
+So yes, I can be called a full-stack developer, especially as being so tremendously helps me when creating web apps for making products.
+
+## Business skills
+
+As an independent digital product maker, I've acquired knowledge in economics and business.
+
+My process involves rushing to create an Initial Product Release (IPR) that arrives on the markets, letting the world know that it exists.
+
+Next, I iterate on the product or productized service, creating a greater version that I can deem as the Minimum Viable Product (MVP).
+
+A long, sustained campaign of promotion and increasing market share follows, so that great returns on investment can be made. Once a substantial change in the market has occurred, I will then have succeeded in gaining Minimum Viable Traction (MVT) whose success can be enumerated to yield even greater returns.
+
+No market validation whatsoever. After all, who knows better than the entrepreneur that nurtures the market?
 
 # 🎮 Games
 
 I also provide entertainment for people by making video games--which you can play by heading to the [games](/games/) section!
 
-### Contact
+# Contact
 
  * [webNoDva@gmail.com](mailto:webNoDva@gmail.com)
 
