@@ -6,7 +6,7 @@ permalink: /games/
 
 ## *Kawaii Ketchup*
 
-Webdva's latest game, currently in the works 🚧 Webdva's most ambitious one yet! Will be released in the first quarter of 2018.
+Webdva's latest game, currently in the works. Webdva's most ambitious one yet! Will be released in a loooong time!
 
 You can play it--in your *web browser*, no less--here, right now, *for free*:
 
