@@ -6,8 +6,6 @@ summary: "Webdva, your brave champion."
 image: /images/webDvaLogo.png
 ---
 
-*Using exceptional strength, a knight was able to slay a magical beast of the moon. The knight was then granted the privilege of being able to commune with the troublesome investor named Success. Hearing of these noble achievements, a group of three legendary kings remarked that they would have liked for the knight to succeed them. So, they granted him a Luminary Soul.*
-
 I'm *webdva*.
 
 I'm resourceful, independent, and I create innovative solutions for unique problems. I have a passion for developing digital products and connecting them with business models. The overall goal, though, is to serve markets by delivering great value in order to obtain great returns.
@@ -46,9 +44,11 @@ Birthday: Janurary 11, 1993
 
 Favorite language: Japanese
 
-Values: strength, wisdom, fortune, excellence, honor, vitality, discipline, innovation, eloquence, gratitude, patience, fortitude
+Values: strength, wisdom, fortune, excellence, honor, vitality, discipline, innovation, eloquence, gratitude, patience, fortitude, power, wealth
 
 Objective: Using digital technology to obtain ridiculous amounts of revenue
+
+Favorite phrase: 俺は元闇分野の騎士。
 
 Favorite color: #7000b7
 
