@@ -40,15 +40,19 @@ No market validation needed, because I'm *pretty sure* that I'm discovering new 
 
 Name: Jermaine Easterling
 
-Birthday: Janurary 11, 1993
+Birthday: January 11, 1993
+
+Objective: To create digital technology in order to obtain ridiculous amounts of revenue
+
+Suitable cultural labels (what you may call me): web developer, software developer, a good coder, independent maker, digital product maker, tech entrepreneur
+
+Values: strength, wisdom, fortune, excellence, honor, vitality, discipline, innovation, eloquence, gratitude, patience, fortitude, power, wealth, success, positivity, kindness, transcendence, devotion, perception, insight, courage, commitment
+
+Hobbies: exercising, learning Japanese
 
 Favorite language: Japanese
 
-Values: strength, wisdom, fortune, excellence, honor, vitality, discipline, innovation, eloquence, gratitude, patience, fortitude, power, wealth
-
-Objective: Using digital technology to obtain ridiculous amounts of revenue
-
-Favorite phrase: 俺は元闇分野の騎士。
+Favorite phrase: 陛下の恩恵なので、私は新しい素晴らしいです。そしてカワイイちゃんワイフの化身は私の陽気の前触れです。
 
 Favorite color: #7000b7
 
