@@ -3,38 +3,47 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    {% if page.excerpt %}
+    <!-- facebook-like -->
+
+    {% if page.summary %}
+    <meta name="description" content="{{ page.summary }}" />
+    <meta property="og:description" content="{{ page.summary }}" />
+    {% elsif page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
+
     <meta name="author" content="{{ site.name }}" />
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    {% endif %}    
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
     <!-- Google / Search Engine Tags -->
+
     {% if page.title %}
     <meta itemprop="name" content="{{ page.title }}">
     {% endif %}
-    {% if page.excerpt %}
+
+    {% if page.summary %}
+    <meta itemprop="description" content="{{ page.summary }}">   
+    {% elsif page.excerpt %}
     <meta itemprop="description" content="{{ page.excerpt| strip_html }}">
     {% else %}
     <meta itemprop="description" content="{{ site.description }}">
     {% endif %}
+
     {% if page.image %}
     <meta itemprop="image" content="{{ site.url }}{{ page.image }}">
     {% else %}
     <meta itemprop="image" content="{{ site.url }}{{ site.avatar }}">
-    {% endif %}
-
-    <!-- facebook -->
-    {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% endif %}
 
     <!-- Twitter cards -->
@@ -44,6 +53,8 @@
 
     {% if page.summary %}
     <meta name="twitter:description" content="{{ page.summary }}" />
+    {% elsif page.excerpt %}
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
@@ -54,4 +65,3 @@
     {% else %}
     <meta name="twitter:card"  content="summary" />
     {% endif %}
-    <!-- end of Twitter cards -->
