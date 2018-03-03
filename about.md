@@ -14,6 +14,20 @@ image: /images/webDvaLogo.png
 
 And that's my thirty second pitch.
 
+# webdva, kind knight of the markets
+
+I'm webdva.
+
+I *am* passionate about entrepreneurship as I'm devoted to becoming a high performing tech entrepreneur.
+
+I *do* like discovering new markets as I intend to use my great strength and wisdom to serve them for the benefit of doing so. I wish to obtain wealth so that I may improve my own fortune.
+
+My honor compels me to render my services to consumers in exchange for obtaining success in the global economy.
+
+# webdva, the web developer
+
+I'm skilled in Javascript, Angular, and Node.js/Express.js and I *really* want to develop my machine learning capabilities.
+
 # Data
 
 **Name:** Jermaine Easterling
