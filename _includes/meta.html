@@ -24,6 +24,8 @@
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
+    {% else %}
+    <meta property="og:title" content="{{ site.name }}" />
     {% endif %}
 
     <!-- Google / Search Engine Tags -->
@@ -49,6 +51,8 @@
     <!-- Twitter cards -->
     {% if page.title %}
     <meta name="twitter:title"   content="{{ page.title }}" />
+    {% else %}
+    <meta name="twitter:title"   content="{{ site.name }}" />
     {% endif %}
 
     {% if page.summary %}
