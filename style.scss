@@ -112,6 +112,12 @@ img {
     display: block;
 }
 
+// For centering embedded tweets
+.twitter-tweet {
+  margin: 0 auto;
+  display: block;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
