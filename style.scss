@@ -240,7 +240,6 @@ nav {
   @include mobile {
     float: none;
     margin-top: 9px;
-    font-size: 22px;
       
     display: flex;
     flex-direction: column;
@@ -255,7 +254,6 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
     padding: 6px;
-    border: medium solid $blue;
     border-radius: 10px;
       
     &:hover, &:active {
