@@ -114,16 +114,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
-.site-head p {
-    font-size: 2em;
-    line-height: 1.3;
-    color: #666;
-    width: auto;
-    padding: 0;
-    margin: 0 auto;
-    margin-bottom: 2em;
-}
-
 canvas {
     display: block;  
 }
@@ -147,16 +137,6 @@ canvas {
 
     .site-head .title {
         font-size: 4em;
-    }
-
-    .site-head p {
-        font-size: 1.75em;
-    }
-
-    .main1.column {
-        padding-top: 0.5rem;
-        padding-bottom: 0;
-        margin-bottom: 0;
     }
 
     #col-1 {width: 100%;}
