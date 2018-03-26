@@ -23,7 +23,7 @@ We use the conditional `if (process.env.NODE_ENV === 'production')` for only per
 
 Note that `app` in the following code snippets was created using `const app = express();` and is therefore the `express()` object that is commonly included or imported in Node apps.
 
-{% highlight javascript %}
+```javascript
 app.use((req, res, next) => {
     if (process.env.NODE_ENV === 'production') {
         // the code that performs redirection will go in this code block
@@ -31,7 +31,7 @@ app.use((req, res, next) => {
         // if not in production, then skip trying to perform redirection
         return next();
 });
-{% endhighlight %}
+```
 
 ## See if a redirect is needed
 
@@ -39,7 +39,7 @@ The `req.headers` object contains the information that we need for seeing if the
 
 Should a redirect *not* be needed, we would simply skip trying to perform a redirect by calling `return next();` to move on to the next route in your app's execution logic.
 
-{% highlight javascript %}
+```javascript
 app.use((req, res, next) => {
     if (process.env.NODE_ENV === 'production') {
         if (req.headers['x-forwarded-proto'] !== 'https')
@@ -50,7 +50,7 @@ app.use((req, res, next) => {
     } else
         return next();
 });
-{% endhighlight %}
+```
 
 ## Performing a redirect
 
@@ -58,7 +58,7 @@ Having found out that there is a need for a redirection, we perform the actual r
 
 We do that by writing the statement `return res.redirect('https://' + req.headers.host + req.url);`. The sole string argument of `res.redirect` is prefixed with our desired `https://` to redirect the user agent to the HTTPS version of our web app. The `req.headers.host` and `req.url` object values are appended to keep the same URL path that the user agent already made a request for.
 
-{% highlight javascript %}
+```javascript
 app.use((req, res, next) => {
     if (process.env.NODE_ENV === 'production') {
         if (req.headers['x-forwarded-proto'] !== 'https')
@@ -69,7 +69,7 @@ app.use((req, res, next) => {
     } else
         return next();
 });
-{% endhighlight %}
+```
 
 ## Use a custom domain name
 
@@ -77,14 +77,13 @@ If you have a custom domain name for your Heroku app, using the statement `retur
 
 The object value `req.headers.host` is checked to see if we are at the intended host name or not.
 
-{% highlight javascript %}
+```javascript
 app.use((req, res, next) => {
     if (process.env.NODE_ENV === 'production') {
         // perform host checking prior to https checking, by the way
-        if (req.headers.host === 'your-app-name.herokuapp.com') {
+        if (req.headers.host === 'your-app-name.herokuapp.com')
             // make express use your custom domain name instead of heroku's default
             return res.redirect(301, 'https://www.your-domain-name.com');
-        }
         if (req.headers['x-forwarded-proto'] !== 'https')
             return res.redirect('https://' + req.headers.host + req.url);
         else
@@ -92,16 +91,15 @@ app.use((req, res, next) => {
     } else
         return next();
 });
-{% endhighlight %}
+```
 
 # The full source code
 
-{% highlight javascript %}
+```javascript
 app.use((req, res, next) => {
     if (process.env.NODE_ENV === 'production') {
-        if (req.headers.host === 'your-app.herokuapp.com') {
+        if (req.headers.host === 'your-app.herokuapp.com')
             return res.redirect(301, 'https://www.your-custom-domain.com');
-        }
         if (req.headers['x-forwarded-proto'] !== 'https')
             return res.redirect('https://' + req.headers.host + req.url);
         else
@@ -109,16 +107,16 @@ app.use((req, res, next) => {
     } else
         return next();
 });
-{% endhighlight %}
+```
 
 You'll want to place the middleware code before most of your application logic starts executing, like, maybe, before your first custom `GET` or `POST` route that you create. Or even after you configure Express, succeeding the statements 
 
-{% highlight javascript %}
+```javascript
 const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-{% endhighlight %}
+```
 
 as an example.
 
@@ -128,9 +126,11 @@ I believe that I was quite descriptive and sufficient in showing you the process
 
 ## On a side note...
 
-I, webdva, am an independent maker. Thus, I will shamlessly plug in my [www.bakayoutube.com](http://www.bakayoutube.com) web app into this tutorial.
+I, webdva, am an independent maker. Thus, I will shamelessly plug in my [www.bakayoutube.com](http://www.bakayoutube.com) web app into this tutorial.
 
 It's relevant, because that web app uses the same ideas conveyed in this tutorial to perform HTTPS and host redirection. If you visit the link, which is exposed as www.bakayoutube.com, with no HTTPS in the URL, you'll notice that your browser performs a redirection from HTTP to HTTPS as you visit the site.
+
+---
 
 ### Footnotes
 
