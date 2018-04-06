@@ -30,7 +30,7 @@ What's the most important thing to you right now? Well, Reminduu is there to rem
 
 ## Baka Youtube to MP3 Converter
 
-[https://www.bakayoutube.com/](https://www.bakayoutube.com/)
+[http://www.bakayoutube.com/](http://www.bakayoutube.com/)
 
 I made a service that lets you download Youtube videos 📺 as .mp3's 🎧🎶
 

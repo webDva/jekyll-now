@@ -124,12 +124,6 @@ as an example.
 
 I believe that I was quite descriptive and sufficient in showing you the process of how to force a Express.js app to use HTTPS. If there are any discrepancies between the information provided here in this tutorial and what's actually needed in your own endeavors, then I hope that at least there's enough information here to help you get started in the right direction of resolving your own issues.
 
-## On a side note...
-
-I, webdva, am an independent maker. Thus, I will shamelessly plug in my [www.bakayoutube.com](http://www.bakayoutube.com) web app into this tutorial.
-
-It's relevant, because that web app uses the same ideas conveyed in this tutorial to perform HTTPS and host redirection. If you visit the link, which is exposed as www.bakayoutube.com, with no HTTPS in the URL, you'll notice that your browser performs a redirection from HTTP to HTTPS as you visit the site.
-
 ---
 
 ### Footnotes
