@@ -21,7 +21,7 @@ $S$ is the set of clusters with $k$ being the number of clusters (hence, $\textb
 
 $\sum\limits_{i=1}^k \sum\limits_{x \in S_i} \\|x - \mu_i\\|^2$ is the within-cluster sum of squares or intra-cluster variance of a partitioning of the observations, where $\mu_i$ is the mean of the observations of each respective cluster.
 
-This mathematical form shows that the objective of the k-means clustering technique is to find the smallest intra-cluster variance for a set of clusters $S$ for a set of $n$ observations.
+This mathematical form shows that the objective of the k-means clustering technique is to find the set of clusters that yields the smallest intra-cluster variance for a set of $n$ observations.
 
 And yes, I had to resort to a mathematical explanation. Well, this is just a wee bit of an introduction anyway and this blog post is supposed to be short too. I think that this would suffice in introducing k-means clustering. There's more involved, like how this definition just shows that there is theoretically a global optimum for the variance, but finding it in reality is very difficult. And there's another form of this technique that can assign probabilities for each observation-cluster pair.
 
