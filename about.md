@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva. I'm an independent digital product maker. I use my software development skills to make products.
+I'm webdva. My areas of interest include software development and machine learning.
 
 # 📜 Blog
 
