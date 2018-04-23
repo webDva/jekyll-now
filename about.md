@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva. My areas of interest include software development and machine learning.
+I'm webdva and I have *big* aspirations. My areas of interest include web development and machine learning. I made [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) and [*Bakayoutue*](http://www.bakayoutube.com/).
 
 # 📜 Blog
 
