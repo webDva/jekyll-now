@@ -4,9 +4,11 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva and you can call me a software developer. I've made interesting projects in various domains, ranging from implementing [text classification](https://github.com/webDva/KawaiiAI) using a supervised learning algorithm such as an artificial neural network to developing an [online web service](http://www.bakayoutube.com) that lets people download their favorite videos for when they're on the go. I'm also currently making [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup).
+I'm webdva.
 
-I intend to further expand into the areas of web application development and machine learning with the hope of building new and better infrastructures and platforms that serve others in their own endeavors.
+I've made a number of interesting projects in various domains. They range from a [text classification](https://github.com/webDva/KawaiiAI) implementation to an [online web service](http://www.bakayoutube.com) that lets people download their favorite videos for when they're on the go. I'm also currently making [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup), a very fun product that people will love.
+
+I intend to further expand into the areas of machine learning and web application development. My aim is to build new and better infrastructures that will serve others in their own endeavors.
 
 # 📜 Blog
 
