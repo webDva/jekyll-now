@@ -22,7 +22,13 @@ $$
 b = r_{x,y}\Big({\sigma_y \over \sigma_x}\Big)
 $$
 
-where $r_{x,y}$ is the correlation between the set of $x$ and $y$ variables and ${\sigma_y}$ and ${\sigma_x}$ are the standard deviations of the $x$ and $y$ set of variables. The standard deviation for a set of variables $x$ can be determined by calculating the square root of the variance of the set of variables, which can be determined with $\sum_{i=1}^n(x_i - \bar{x})^2 \over n$, with $\bar{x}$ being the mean average of the $x$ set of variables. The correlation $r_{x,y}$ can be determined by calculating
+where $r_{x,y}$ is the correlation between the set of $x$ and $y$ variables and ${\sigma_x}$ and ${\sigma_y}$ are the standard deviations of the $x$ and $y$ set of variables. The standard deviation for a set of variables $x$ with size $n$ can be determined by calculating the square root of the variance of the set of variables, which can be determined with
+
+$$
+\sum\limits_{i=1}^n(x_i - \bar{x})^2 \over n
+$$
+
+with $\bar{x}$ being the mean average of the $x$ set of variables. The correlation $r_{x,y}$ can be determined by calculating
 
 $$
 r_{x,y} = {\sum\limits_{i=1}^n(x_i - \bar{x})(y_i - \bar{y}) \over \sqrt{\sum\limits_{i=1}^n(x_i - \bar{x})^2 \sum\limits_{i=1}^n(y_i - \bar{y})^2}}
