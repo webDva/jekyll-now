@@ -79,7 +79,7 @@ I know one thing about that problem, though, and it's that I deserve a whole lot
 
 # What I want to become--what *webdva* intends to become
 
-But, actually, I may not focus on doing such a startup, at least for now, even though it would coincide with my new aspiration: I want to become a mini tech giant, a mini or one-man Google/Amazon/Facebook. An independent hacker whose portfolio and capabilities are almost akin to that of such powerful corporations own portfolio of success and influence. The power and wealth of such a prospect...
+But, actually, I may not focus on doing such a startup, at least for now, even though it would coincide with my new aspiration: I want to become a mini tech giant, a mini or one-man Google/Amazon/Facebook. An independent hacker whose portfolio and capabilities are almost akin to that of such powerful corporations' own portfolio of success and influence. The power and wealth of such a prospect...
 
 # A hint of gratitude and a positive mental attitude
 
