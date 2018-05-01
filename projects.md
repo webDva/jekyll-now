@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 🎮 Games
-permalink: /games/
+title: 🛠️ Projects
+permalink: /projects/
 ---
 
 ## *Kawaii Ketchup*

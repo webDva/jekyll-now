@@ -16,11 +16,11 @@ I intend to further expand into the areas of machine learning and web applicatio
 
 This public online journal resource provides insight into the chronicles of webdva. Not only that, I will also endeavor to share the wisdom that I have as I am a kind individual.
 
-# 🎮 Games
+# 🛠️ Projects
 
-[/games/](/games/)
+[/projects/](/projects/)
 
-Some of the digital artifacts that I make include video games.
+A repository of my projects that I've made.
 
 # 📇 Contact
 
