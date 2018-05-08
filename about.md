@@ -4,23 +4,13 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva.
-
-I'm a software engineer and I have a number of projects in various domains. They range from a [text classification](https://github.com/webDva/KawaiiAI) implementation to an [online web service](http://www.bakayoutube.com) that lets people download their favorite videos for when they're on the go. I'm starting up an open source machine learning framework, [*KawaiiML*](https://github.com/webDva/KawaiiML), to help me gain a better understanding of machine learning.
-
-I intend to further expand into the areas of machine learning and web application development through extensive research and development. My aim is to build new and better infrastructures that will serve others in their own endeavors.
+I'm webdva, very skilled and passionate.
 
 # 📜 Blog
 
 [/blog/](/blog/)
 
 This public online journal resource provides insight into the chronicles of webdva. Not only that, I will also endeavor to share the wisdom that I have as I am a kind individual.
-
-# 🛠️ Projects
-
-[/projects/](/projects/)
-
-A repository of my projects that I've made.
 
 # 📇 Contact
 
