@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva, very skilled and passionate.
+I'm webdva, very skilled and passionate, and I like machine learning.
 
 # 📜 Blog
 
