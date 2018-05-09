@@ -20,10 +20,9 @@ title: 📜 Blog
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">⬅️ Previous</a>
+    <a href="{{ paginator.previous_page_path }}">⬅️ Newer</a>
   {% endif %}
-  <span>Page {{ paginator.page }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next ➡️</a>
+    <a href="{{ paginator.next_page_path }}">Older ➡️</a>
   {% endif %}
 </div>
