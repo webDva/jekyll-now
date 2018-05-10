@@ -4,7 +4,11 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva, very skilled and passionate, and I like machine learning.
+I'm webdva.
+
+I have a *ton* of experience with software, but my primary area of interest is machine learning. I'm learning the fundamentals of artificial neural networks, unsupervised learning algorithms, and deep learning so that I can obtain the strength to build advanced technology.
+
+My aim is to achieve excellent effects with this strength. It'll take years to obtain the capabilities I seek, but I'm committed to my success.
 
 # 📜 Blog
 
