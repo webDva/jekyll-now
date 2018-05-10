@@ -1,27 +1,28 @@
 ---
-layout: landing_page
+layout: default
+title: 📜 Blog
 ---
 
-<div id="particles-js"></div>
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
 
-<div class="row">
-    <div id="col-1">
-        <div class="main1 column">
-            <header class="site-head">
-                <h1 class="title"><a href="{{ site.baseurl }}">webdva</a></h1>
-            </header>
-        </div>
-    </div>
-    <div id="col-2">
-        <div class="nav column">
-            <header class="logo">
-                <a href="{{ site.baseurl }}"><img src="{{ site.avatar }}" alt="Kawaii-chan, the Soul of Waifu!"/></a>
-            </header>
-            <div class="links">
-                <a href="{{ site.baseurl }}/blog/">📜 blog</a>
-                <a href="{{ site.baseurl }}/about/">❓ about</a>
-                <a href="{{ site.baseurl }}/projects/">🛠️ projects</a>
-            </div>
-        </div>
-    </div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">⬅️ Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Older ➡️</a>
+  {% endif %}
 </div>

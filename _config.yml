@@ -53,7 +53,7 @@ baseurl: ""
 # Pagination
 #
 paginate: 15
-paginate_path: "/blog/page/:num/"
+paginate_path: "/page/:num/"
 
 #
 # !! You don't need to change any of the configuration flags below !!

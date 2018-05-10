@@ -10,12 +10,6 @@ I have a *ton* of experience with software, but my primary area of interest is m
 
 My aim is to achieve excellent effects with this strength. It'll take years to obtain the capabilities I seek, but I'm committed to my success.
 
-# 📜 Blog
-
-[/blog/](/blog/)
-
-This public online journal resource provides insight into the chronicles of webdva. Not only that, I will also endeavor to share the wisdom that I have as I am a kind individual.
-
 # 📇 Contact
 
 You can contact me on my [Twitter](https://www.twitter.com/webDva).
