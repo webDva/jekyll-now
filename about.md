@@ -4,11 +4,11 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva.
+I'm webdva, a very skilled and passionate entity.
 
-I have a *ton* of experience with software, but my primary area of interest is machine learning. I'm learning the fundamentals of artificial neural networks, unsupervised learning algorithms, and deep learning so that I can obtain the strength to build advanced technology.
+I have a *ton* of experience with software, but my primary area of interest is understanding the fundamentals of machine learning so I can obtain the strength to build and engineer advanced technology.
 
-My aim is to achieve excellent effects with this strength. It'll take years to obtain the capabilities I seek, but I'm committed to my success.
+My aim is to achieve excellent effects. It'll take years to obtain the capabilities I seek, but I'm committed to my success.
 
 ### 🛠️ Projects
 
@@ -16,7 +16,7 @@ My aim is to achieve excellent effects with this strength. It'll take years to o
 * [*KawaiiPredicts*](https://kawaiipredicts.herokuapp.com/) - A prototype for a web-based regression analysis service.
 * [*Bakayoutube*](https://baka-converter.herokuapp.com/) - A service that lets you download YouTube videos as .mp3's.
 * [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - My latest video game.
-* [Other projects](https://github.com/webDva) - You can find my other projects on my GitHub.
+* You can find other projects on my [GitHub](https://github.com/webDva).
 
 ### 📇 Contact
 
@@ -24,4 +24,4 @@ You can contact me on my [Twitter](https://www.twitter.com/webDva).
 
 ### 📡 If you *really* like webdva...
 
-Then you can be notified of new codex entries by using the [RSS feed](/feed.xml). I publish a codex entry every Friday.
+Then you can be notified of new codex entries by using the [RSS feed](/feed.xml). I publish a new codex entry every Friday.
