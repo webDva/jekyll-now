@@ -4,11 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva, a very skilled and passionate entity.
-
-I have a *ton* of experience with software, but my primary area of interest is understanding the fundamentals of machine learning so I can obtain the strength to build and engineer advanced technology.
-
-My aim is to achieve excellent effects. It'll take years to obtain the capabilities I seek, but I'm committed to my success.
+I'm a very strong and passionate hacker.
 
 ### 🛠️ Projects
 
