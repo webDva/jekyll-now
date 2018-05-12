@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm a very strong and passionate hacker.
+webdva is very strong and he seeks even more strength.
 
 ### 🛠️ Projects
 
