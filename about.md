@@ -4,11 +4,11 @@ title: ❓ About
 permalink: /about/
 ---
 
-webdva is very strong and he seeks even more strength.
+**webdva** is an entity that engages in software development with great heart and strength.
 
 ### 🛠️ Projects
 
-* [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework to help me gain a greater understanding of the fundamentals of machine learning.
+* [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
 * [*KawaiiPredicts*](https://kawaiipredicts.herokuapp.com/) - A prototype for a web-based regression analysis service.
 * [*Bakayoutube*](https://baka-converter.herokuapp.com/) - A service that lets you download YouTube videos as .mp3's.
 * [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - My latest video game.
