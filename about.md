@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-**webdva** is an entity that engages in software development with great heart and strength.
+I'm a software developer.
 
 ### 🛠️ Projects
 
