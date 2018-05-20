@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva.
+I'm webdva, and I'm a hacker who loves learning. I began my journey doing game development. Now, I'm really excited about machine learning.
 
 ### 🛠️ Projects
 
@@ -18,6 +18,6 @@ I'm webdva.
 
 You can contact me on my [Twitter](https://www.twitter.com/webDva).
 
-### 📡 If you *really* like webdva...
+### 📡 RSS feed
 
-Then you can be notified of new codex entries by using the [RSS feed](/feed.xml). I publish a new codex entry every Friday.
+I write new blog posts every Friday. You can use the [RSS feed](/feed.xml) to be notified of new blog posts.
