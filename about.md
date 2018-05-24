@@ -6,6 +6,8 @@ permalink: /about/
 
 I'm webdva, and I'm a hacker who loves learning. I began my journey doing game development. Now, I'm really excited about machine learning.
 
+I'm really fond of advances in scientific and technological knowledge and I'm committed to facilitating prosperity by providing value to others.
+
 ### 🛠️ Projects
 
 * [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
