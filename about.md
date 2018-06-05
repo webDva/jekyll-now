@@ -18,8 +18,8 @@ I'm really fond of advances in scientific and technological knowledge and I'm co
 
 ### 📇 Contact
 
-You can contact me on my [Twitter](https://www.twitter.com/webDva).
+You can contact me on Twitter [@webDva](https://www.twitter.com/webDva) or you can e-mail me at [webNoDva@gmail.com](mailto:webNoDva@gmail.com).
 
 ### 📡 RSS feed
 
-I write new blog posts every Friday. You can use the [RSS feed](/feed.xml) to be notified of new blog posts.
+I write new blog posts every Friday. You can subscribe to the [RSS feed](/feed.xml) to be notified of new blog posts.
