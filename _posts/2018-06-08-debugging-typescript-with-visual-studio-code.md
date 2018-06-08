@@ -3,13 +3,13 @@ layout: post
 title: Debugging Typescript with Visual Studio Code
 ---
 
-The problem involves using Typescript (as opposed to Javascript) as the language for a front-end program with the goal of debugging using the Visual Studio Code IDE's debugger. The solution involves configuring Typescript compilation options, using a sever to host the front-end program, and configuring Visual Studio Code launch options.
+The problem involves using Typescript (as opposed to Javascript) as the language for a front-end program with the goal of debugging using the Visual Studio Code IDE's debugger. The solution involves configuring Typescript compilation options, using a server to host the front-end program, and configuring Visual Studio Code launch options.
 
 # Motivation and context
 
 I was resuming work on my game [Kawaii Ketchup](https://webdva.itch.io/kawaii-ketchup) after a hiatus. An obstacle that appeared in my way, I had to solve the problem of being able to have debugging in Typescript using Visual Studio Code as I was previously using another IDE, NetBeans. So, with courage and skill I faced this problem and successfully found a solution.
 
-My particular use case involves a browser-based program, a Phaser game, in fact, so the context for this informative guide will be that of a trying to get Visual Studio Code's debugger to debug Typescript code that gets compiled to Javascript code which runs in a browser. The chrome browser will be used as the browser for running the browser program.
+My particular use case involves a browser-based program, a Phaser game, in fact, so the context for this informative guide will be that of a trying to get Visual Studio Code's debugger to debug Typescript code that gets compiled to Javascript code which runs in a browser. The Chrome browser will be used as the browser for running the browser program.
 
 ## Requirements
 
