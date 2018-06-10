@@ -64,7 +64,7 @@ The line `"sourceMaps": true` is of concern as that will allow the `.map` files 
 
 # Begin debugging
 
-Currently, the Visual Studio Code IDE needs to have an instance of the Chrome browser with remote debugging enabled. To accomplish this, run an instance of the Chrome browser with the launch options `<PATH TO YOUR CHROME BROWSER'S BINARY FILE>/chrome.exe --remote-debugging-port=9222` as instructed by the Microsoft *Debugger for Chrome* extension \[[^1]\].
+Currently, the Visual Studio Code IDE needs to have an instance of the Chrome browser with remote debugging enabled. To accomplish this, run an instance of the Chrome browser with the launch options `<PATH TO YOUR CHROME BROWSER'S BINARY FILE>/chrome.exe --remote-debugging-port=9222` as instructed by the Microsoft *Debugger for Chrome* extension \[[^1]\]. Note that an instance of Chrome must not already be running. If one is, you'll have to end that instance prior to launching an instance of Chrome with remote debugging enabled or else Visual Studio Code will not be able to debug your front-end program.
 
 In Visual Studio Code, use the "Debug" menu or press "F5," after which you'll be prompted with a "Select a tab" drop-down menu that will allow you to select a Chrome tab as the debugging target. For instance, my use case involves me selecting the tab with the URL `http://127.0.0.1:5500/public_html/index.html` as the target.
 
