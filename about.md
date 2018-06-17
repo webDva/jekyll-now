@@ -4,7 +4,9 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva, and I'm a software developer who loves learning. I began my journey doing game development. At first, my games were developed for traditional native platforms like desktops and mobile devices. Then, the allure of modern web development beckoned me with its advanced browser technology. Now, I'm really excited about machine learning, amazed at its capacity to augment human efforts.
+I'm webdva, and I'm a software developer who's passionate about making digital technology and sharing it with others.
+
+Notwithstanding my previous experience with programming in years of yore, I began my present journey doing game development. At first, my games were developed for traditional native platforms like desktops and mobile devices. Then, the allure of modern web development beckoned me with its advanced browser technology. Now, I'm really excited about machine learning, amazed at its capacity to augment human efforts.
 
 I'm really fond of advances in scientific and technological knowledge and I'm committed to facilitating prosperity by providing value to others. It takes time to build valuable things, but I'm willing to endure the challenges of great product development and work with you to steward excellent effects.
 
