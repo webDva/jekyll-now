@@ -10,6 +10,10 @@ Notwithstanding my previous experience with programming in years of yore, I bega
 
 I'm really fond of advances in scientific and technological knowledge and I'm committed to facilitating prosperity by providing value to others. It takes time to build valuable things, but I'm willing to endure the challenges of great product development and work with you to steward excellent effects.
 
+So let us endeavor then, and affirm our commitment to transcending any ordeal that may greet us with discouraging tidings for we have our hearts set on completing our journey and reaching prosperity. Let us not only facilitate the fulfillment of a greatly desired wish, but also an ethos of excellence that will accompany us on every activity that we find ourselves engaged in.
+
+I would implore you to make an effort to gain valuable insight from the words I write in this digital codex.
+
 ### 🛠️ Projects
 
 * [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
