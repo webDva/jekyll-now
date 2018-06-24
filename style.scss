@@ -334,6 +334,12 @@ nav {
       transition: color 0.2s ease;
     }  
   }
+
+  .post-title {
+    &:hover, &:active {
+      background-color: $lightGray;
+    }
+  }
 }
 
 .wrapper-footer {
