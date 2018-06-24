@@ -16,8 +16,9 @@ I would implore you to make an effort to gain valuable insight from the words I 
 
 ### 🛠️ Projects
 
+* [*Online Linear Regression Calculator*](https://webdva.github.io/online-linear-regression-calculator/) - A tool for performing linear regression in your web browser.
+* [*matrixmul*](https://github.com/webDva/matrixmul) - A portable matrix multiplication library.
 * [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
-* [*KawaiiPredicts*](https://kawaiipredicts.herokuapp.com/) - A prototype for a web-based regression analysis service.
 * [*Bakayoutube*](https://baka-converter.herokuapp.com/) - A service that lets you download YouTube videos as .mp3's.
 * [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - My latest video game.
 * You can find other projects on my [GitHub](https://github.com/webDva).
