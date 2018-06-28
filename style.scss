@@ -280,16 +280,17 @@ nav {
 
 .pagination a, .pagination span {
   padding: 6px 18px;
-  border: 2px solid #057aff;
+  border: 2px solid $blue;
   margin-left: -2px;
   margin-right: -2px;
   display: inline-block;
   letter-spacing: 4px;
+  font-weight: bold;
 }
 
 .pagination a {    
   &:hover {
-      background-color: #057aff;
+      background-color: $blue;
       color: white;
       transition: color 0.3s ease;
   }
