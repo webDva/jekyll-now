@@ -300,13 +300,16 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
+  border: 1px solid $lightGray;
+  border-radius: 4px;
+  margin: 22px 0px;
+  padding: 16px 8px;
+  background-color: ghostwhite;
+  box-shadow: 1px 1px $lightGray;
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+  &:hover, &:active {
+    background-color: $lightGray;
+  }   
 }
 
 .post {
@@ -327,18 +330,13 @@ nav {
     font-size: 16px;
     padding: 12px;
     border: 1px solid;
+    font-weight: bold;
 
     &:hover, &:active {
       color: white;
       background-color: $blue;
       transition: color 0.2s ease;
     }  
-  }
-
-  .post-title {
-    &:hover, &:active {
-      background-color: $lightGray;
-    }
   }
 }
 
