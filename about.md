@@ -4,7 +4,7 @@ title: ❓ About
 permalink: /about/
 ---
 
-I'm webdva, and I'm a software developer who's passionate about making digital technology and sharing it with others.
+I'm **webdva**. I engage in the research and development of small and simple digital technology systems. Building services and tools that give value to others is my passion, and I have a portfolio of various types of digital technology that you may like to use.
 
 Notwithstanding my previous experience with programming in years of yore, I began my present journey doing game development. At first, my games were developed for traditional native platforms like desktops and mobile devices. Then, the allure of modern web development beckoned me with its advanced browser technology. Now, I'm really excited about machine learning, amazed at its capacity to augment human efforts.
 
