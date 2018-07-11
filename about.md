@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ❓ About
+title: About
 permalink: /about/
 ---
 
-I'm **webdva**. I engage in the research and development of small and simple digital technology systems. Building services and tools that give value to others is my passion, and I have a portfolio of various types of digital technology that you may like to use.
+I'm **webdva**. I engage in the research and development of small and simple digital technology systems. Building services and tools that give value to others is my passion, and I have a portfolio of various types of digital technology that you may like.
 
 Notwithstanding my previous experience with programming in years of yore, I began my present journey doing game development. At first, my games were developed for traditional native platforms like desktops and mobile devices. Then, the allure of modern web development beckoned me with its advanced browser technology. Now, I'm really excited about machine learning, amazed at its capacity to augment human efforts.
 
@@ -16,12 +16,13 @@ I would implore you to make an effort to gain valuable insight from the words I 
 
 ### 🛠️ Projects
 
+* [*Pantsu versus Baka*](https://webdva.itch.io/pantsu-versus-baka) - A puzzle platformer game in early development. I would *love* for you to play it.
 * [To-do list web application](https://github.com/webDva/todo-list-web-app) - A prototype for a to-do list web application.
 * [*Online Linear Regression Calculator*](https://webdva.github.io/online-linear-regression-calculator/) - A tool for performing linear regression in your web browser.
 * [*matrixmul*](https://github.com/webDva/matrixmul) - A portable matrix multiplication library.
 * [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
 * [*Bakayoutube*](https://baka-converter.herokuapp.com/) - A service that lets you download YouTube videos as .mp3's.
-* [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - My latest video game.
+* [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - A very big video game in development. Might take years.
 * You can find other projects on my [GitHub](https://github.com/webDva).
 
 ### 📇 Contact
