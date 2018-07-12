@@ -3,7 +3,7 @@ layout: post
 title: webdva Q1 2018 Results
 ---
 
-I'm totally going to start thinking in quarters instead days, as I'm highly advanced.
+I'm totally going to start thinking in quarters instead of days.
 
 # Reflections
 
