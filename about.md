@@ -16,14 +16,14 @@ I would implore you to make an effort to gain valuable insight from the words I 
 
 ### 🛠️ Projects
 
-* [*Pantsu versus Baka*](https://webdva.itch.io/pantsu-versus-baka) - A puzzle platformer game in early development. I would *love* for you to play it.
+* [*Pantsu versus Baka*](https://webdva.itch.io/pantsu-versus-baka) - A platformer game in early development. I would *love* for you to play it.
 * [Notification server Twitter bot](https://github.com/webDva/Twitter-Server-Notifications-Bot) - A server and Twitter bot for relaying messages from your applications.
 * [To-do list web application](https://github.com/webDva/todo-list-web-app) - A prototype for a to-do list web application.
 * [*Online Linear Regression Calculator*](https://webdva.github.io/online-linear-regression-calculator/) - A tool for performing linear regression in your web browser.
 * [*matrixmul*](https://github.com/webDva/matrixmul) - A portable matrix multiplication library.
 * [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
 * [*Bakayoutube*](https://baka-converter.herokuapp.com/) - A service that lets you download YouTube videos as .mp3's.
-* [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - A very big video game in development. Might take years.
+* [*Kawaii Ketchup*](https://webdva.itch.io/kawaii-ketchup) - This is maybe my thirteenth game.
 * You can find other projects on my [GitHub](https://github.com/webDva).
 
 ### 📇 Contact
