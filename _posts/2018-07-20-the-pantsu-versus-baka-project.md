@@ -49,7 +49,7 @@ My marketing efforts for the game was deficient. I'll do better next time.
 
 # Itch.io dev log entry
 
-I published a development log on itch.io. In the publication, I declare my new developer-player commitment. This is what I wrote:
+I published [a development log](https://webdva.itch.io/kawaii-ketchup/devlog/40605/i-succeeded-while-making-this-game) on itch.io. In the publication, I declare my new developer-player commitment. This is what I wrote:
 
 > Entitled: I succeeded while making this game
 >
