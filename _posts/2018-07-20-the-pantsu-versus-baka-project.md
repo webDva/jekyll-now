@@ -39,7 +39,7 @@ It, possibly, failed to "do one thing and one thing well." It was ambitious. The
 
 I learned that some systems have a great inherent complexity despite their simple outward appearance. With new eyes I can actually see what they truly are. I now know what systems that have large complexities look like. Not only am I more familiar with my systems, but I am also more experienced with the interaction between my systems and their environments.  This new great understanding will give rise to new development and program policies.
 
-And I used Typescript as the language for the game. I wrote [a tutorial](/debugging-typescript-with-visual-studio-code/) about a problem that I had to solve because of Typescript. Even though types can provide safety, setting up and using Typescript incurred a large cost as it is not a simple development system. So, I must refrain from engaging in such an activity ever again. I shall abstain from using complicated development tools to avoid the risk of high program costs, which I can't afford.
+And I used Typescript as the language for the game. I wrote [a tutorial](/debugging-typescript-with-visual-studio-code/) about a problem that I had to solve because of Typescript. Even though types can provide safety, setting up and using Typescript incurred a large cost as it is not a simple development system. So, I must refrain from engaging in such an activity ever again. I shall abstain from using complicated development tools to avoid the risk of high program costs. Which I can't afford.
 
 # *Kawaii Ketchup*'s reach
 
