@@ -43,7 +43,7 @@ And I used Typescript as the language for the game. I wrote [a tutorial](/debugg
 
 # *Kawaii Ketchup*'s reach
 
-My marketing efforts for the game was deficient. I'll do better next time.
+My marketing efforts for the game were deficient. I'll do better next time.
 
 ![chart](/assets/images/itchio_kk_data.png "From the game's upload date of Nov. 11, 2017 to July 13, 2018.")
 
