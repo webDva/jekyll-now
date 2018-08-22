@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name's webdva. I make technology. How can I help you?
+I'm webdva. How can I help you?
 
 ### 🛠️ Projects
 
