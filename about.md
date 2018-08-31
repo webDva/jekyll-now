@@ -14,7 +14,6 @@ I'm webdva. I'm kind and I make technology. How can I help you?
 * [To-do list web application](https://github.com/webDva/todo-list-web-app) - A prototype for a to-do list web application.
 * [*Online Linear Regression Calculator*](https://webdva.github.io/online-linear-regression-calculator/) - A tool for performing linear regression in your web browser.
 * [*matrixmul*](https://github.com/webDva/matrixmul) - A portable matrix multiplication library.
-* [*KawaiiML*](https://github.com/webDva/KawaiiML) - I'm starting up a machine learning framework.
 * You can find other projects on my [GitHub](https://github.com/webDva).
 
 ### 📇 Contact
