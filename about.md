@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm webdva. I'm kind and I make technology. How can I help you?
+I'm webdva and I'm a kind technology entrepreneur. I can use my systems engineering and software development skills to help you accomplish tasks. I'm seeking freelance clients and I want to establish mutually beneficial long-term relationships. I would be committed to our joint efforts' successes. I'm kind, remember?
 
 ### 🛠️ Projects
 
