@@ -90,7 +90,7 @@ I'm still committed to delivering great value to others. From now on, webdva's g
 
 * Inbound marketing and content marketing using this codex. I can write content that will literally lure in my target customers. But inbound marketing won't be my primary effort this time.
 
-With the outbound marketing, I'm "do[ing] things that don't scale." I don't need to automate this process or reach high ~~sales~~ marketing goals. I only need several customers--or one. I'll enumerate that success afterward.
+With the outbound marketing, I'm "do[ing] things that don't scale." I don't need to automate this process or reach high ~~sales~~ marketing goals. I only need several customers--or one. I'll iterate that success afterward.
 
 A wee bit of unconventional marketing to solve an unconventional problem. I have a unique product to sell too: currently, a minimum viable product that's a free browser game.
 
