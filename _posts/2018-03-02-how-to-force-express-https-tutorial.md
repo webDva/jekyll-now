@@ -9,6 +9,8 @@ A technical problem that I've had to face, I've decided to share the sweet wisdo
 
 If you have a web app that's hosted on Heroku, and you use Node.js/Express.js for the backend, then you'll likely want a way to force users of your web app to use the HTTPS version of your web site. This tutorial will show you how to force your Express.js web app, hosted on Heroku, to use HTTPS.
 
+Note that this isn't limited to only Heroku. It can also be applied to other things.
+
 As an added bonus, if you have a custom domain name, you can also force users' browsers to redirect to the custom domain name instead of letting them use the sub-domain one provided by Heroku (e.g., yourappname.herokuapp.com). This can be useful, for example, for when you want to use Google Analytics only on your custom domain instead of the Heroku provided sub-domain name.
 
 # The process in detail
