@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name's webdva. I'm a kind individual who's passionate about engineering and committed to building a world of prosperity.
+My name's webdva. I'm a kind individual who's passionate about engineering and committed to building a future of prosperity.
 
 This website is my digital codex where I publicly record my technical and commercial activities. I publish new codex entries every Friday.
 
