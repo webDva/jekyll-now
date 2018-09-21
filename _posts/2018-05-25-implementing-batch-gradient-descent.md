@@ -40,6 +40,6 @@ def gradientdescent(X, Y, weight = 0, bias = 0, epochs = 500000, gamma = 0.00001
     return (current_h0, current_h1)
 ```
 
-It converges to the local minimum fairly well and fast enough with a large number of epochs for not-too-many data pairs, although I haven't measured it in any objective way. And for some reason, a learning rate higher than 0.00001 produces large numbers that yield show stopping Python `nan`'s during run-time.
+It converges to the local minimum fairly well and fast enough with a large number of epochs for not-too-many data pairs, although I haven't measured it in any objective way. And for some reason, a learning rate higher than 0.00001 produces large numbers that yield show-stopping Python `nan`s during run-time.
 
 Now, I have implementation achievements for simple linear regression, k-means clustering, and batch gradient descent in my portfolio. A portfolio of success that grows bit-by-bit.
