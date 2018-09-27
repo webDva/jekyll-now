@@ -237,12 +237,13 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: bold;
     letter-spacing: 1px;
     padding: 6px;
     border: 2px solid $blue;
+    border-radius: 4px;
       
     &:hover, &:active {
         color: white;
@@ -269,6 +270,7 @@ nav {
 .pagination a, .pagination span {
   padding: 6px 18px;
   border: 2px solid $blue;
+  border-radius: 4px;
   margin: 4px;
   margin-left: -2px;
   margin-right: -2px;
