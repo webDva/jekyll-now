@@ -7,7 +7,7 @@ This essay shows you how to have URL encoded tweets when using the Twitter API.
 
 When Twitter API user agents or clients request for a tweet to be posted on the Twitter platform, the Twitter API documentation specifies that tweets should be "[URL encoded as necessary](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)."
 
-If you send an API request to post a Tweet without accounting for the URL encoding that the Twitter platform will perform on your proposed tweet, then it's possible that the proposed tweet will become elongated and thus exceed the 280 character limit. That would cause the Twitter API server to send an API error in response, namely specifying that the proposed tweet exceeds the 280 character limit. To mitigate this, we'll need an algorithm for solving the problem of maximizing the number of characters we can request the Twitter platform API server to accept, which is the object of this discussion.
+If you send an API request to post a Tweet without accounting for the URL encoding that the Twitter platform will perform on your proposed tweet, then it's possible that the proposed tweet will become elongated and thus exceed the 280 character limit. That would cause the Twitter API server to send an API error in response, namely specifying that the proposed tweet exceeds the 280 character limit. To resolve this, we'll need an algorithm for solving the problem of maximizing the number of characters we can request the Twitter platform API server to accept, which is the object of this discussion.
 
 We consider the following algorithm:
 
