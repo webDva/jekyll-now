@@ -13,7 +13,7 @@ You can still be notified of new haphazardly published (frequency-wise) codex en
 
 I can still return to the more systematic weekly publishing schedule in the future, when it's more suitable to do so. But right now, this new campaign mission calls for the use of a new doctrine.
 
-I use such words as *campaign* and *doctrine*, but I am not a member of the military anymore. Yet I find myself in this new operational environment that is the startup game and life, a very hard game to play and a very hard life to live. And I do not have a commander to lead me.
+I use such words as *campaign* and *doctrine*, but I am not a member of the military anymore. Yet I find myself in this new operational environment that is the startup game and life, a very hard game to play and a very hard life to live. I am alone and I do not have a commander to lead me.
 
 Then I promote myself to the position of commander.
 
