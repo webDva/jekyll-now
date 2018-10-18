@@ -8,4 +8,4 @@ My name's webdva. I'm a kind individual who's passionate about engineering and c
 
 This website is my digital codex where I publicly record my technical and commercial activities.
 
-If you want to work together and engineer the future, then you can Direct Message me on Twitter [(@webDva)](https://www.twitter.com/webDva) or you can e-mail me at [webnodva@gmail.com](mailto:webNoDva@gmail.com).
+If you want to contact me, then you can Direct Message me on Twitter [(@webDva)](https://www.twitter.com/webDva) or you can e-mail me at [webnodva@gmail.com](mailto:webNoDva@gmail.com).
