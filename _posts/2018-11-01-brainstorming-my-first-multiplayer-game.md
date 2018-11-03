@@ -88,7 +88,7 @@ I'm a full-time indie maker. You can also call me a technology entrepreneur or a
 
 I don't have income. I can't seem to put my rather great and tragic past behind me. I seem to be stuck in a local minimum or maybe even diverging from the local maximum. I'm operating with chronic deficiencies. My relationship with my pseudo-investor is estranged. The fate of my health is unknown.
 
-But I have eternal courage and commitment at my side. I got the right stuff, fine constitution. I have the desire to mend the world. This full-time indie maker lifestyle is so much better than working a traditional minimum wage job, despite me not having the amenities that employment with an employer provides. For me to have income, I must grind from zero to n as though I were trying to reach the top of the leader board in a video game, starting from the bottom.
+But I have eternal courage and commitment at my side. I got the right stuff, fine constitution. I have a desire to mend the world. This full-time indie maker lifestyle is so much better than working a traditional minimum wage job, despite me not having the amenities that employment with an employer provides. For me to have income, I must grind from zero to n as though I were trying to reach the top of the leader board in a video game, starting from the bottom.
 
 To play this unique game and win, great ambition and strength are required.
 
