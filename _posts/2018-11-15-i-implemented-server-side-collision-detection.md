@@ -34,4 +34,4 @@ But solutions arise when problems arise and I'm deciding to classify this potent
 
 ![One Punch Man](/assets/images/opm_tomorrow.jpg "One Punch Man.")
 
-Meaning, I will address such issues in the future. I've got an Initial Product Release that I want to happen as soon as possible. It's nearly a fortnight and I haven't released this multiplayer game I'm making to the beloved players yet. I would like to have a minimum viable working version released before Thanksgiving, but some time around Christmas might be a more likely release date as this is my first multiplayer game and it has lots of complexities involved with making it and releasing it.
+Meaning, I will address such issues in the future. I've got an Initial Product Release that I want to happen as soon as possible. It's been nearly a fortnight since I started up this multiplayer game and I haven't released it to the beloved players yet. I would like to have a minimum viable working version released before Thanksgiving, but some time around Christmas might be a more likely release date as this is my first multiplayer game and it has lots of complexities involved with making it and releasing it.
