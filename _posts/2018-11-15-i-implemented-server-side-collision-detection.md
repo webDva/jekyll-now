@@ -30,7 +30,7 @@ The above function is used in performing player-map tile collisions inside the g
 
 The collision detection check is performed between *all* the connected players and **all** the tiles that are in the current map/level. This can cause a server performance issue. To address this issue, something called *quad trees* (which remind me of the k-nearest neighbors concept from data science--is there a connection? Yes, there is.) or a sector based method can be used.
 
-But I'm deciding to classify this potential performance issue as tomorrow's problem for tomorrow's me.
+But solutions arise when problems arise and I'm deciding to classify this potential performance issue as tomorrow's problem for tomorrow's me.
 
 ![One Punch Man](/assets/images/opm_tomorrow.jpg "One Punch Man.")
 
