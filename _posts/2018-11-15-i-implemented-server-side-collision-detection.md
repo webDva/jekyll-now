@@ -26,7 +26,7 @@ willCollide(object1, object2, object1_extension) {
 
 In the above function, the `object1` and `object2` function arguments are Javascript object literals that have `x`, `y`, `width`, and `height` properties which are used to perform the collision detection. The `object1_extension` function argument is another Javascript object literal and it has `x` and `y` properties that the algorithm uses to determine what the extrapolation or predicted future position of a potentially colliding object might be.
 
-The above function is used in performing player-map tile collisions inside the game's physics processing routine which is becoming large and very complicated.
+The above function (which is just one small segment of the git commit that added collision detection) is used in performing player-map tile collisions inside the game's physics processing routine which is becoming large and very complicated.
 
 The collision detection check is performed between *all* the connected players and **all** the tiles that are in the current map/level. This can cause a server performance issue. To address this issue, something called *quad trees* (which remind me of the k-nearest neighbors concept from data science--is there a connection? Yes, there is.) or a sector based method can be used.
 
