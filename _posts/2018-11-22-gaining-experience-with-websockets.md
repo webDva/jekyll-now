@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gaining experience with WebSockets
+title: Gaining Experience with WebSockets
 ---
 
 Thanks to my unwavering devotion to achieving program success, I successfully migrated from socket.io to the more appropriate [ws](https://github.com/websockets/ws) WebSocket library.

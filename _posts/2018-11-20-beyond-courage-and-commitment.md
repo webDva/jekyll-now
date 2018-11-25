@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond courage and commitment
+title: Beyond Courage and Commitment
 ---
 
 I'm experiencing a "down" (not a word I use to describe such things).
