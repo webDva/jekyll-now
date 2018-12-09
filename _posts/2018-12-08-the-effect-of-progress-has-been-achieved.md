@@ -33,7 +33,7 @@ Great self-control will be needed to endure the six months of initial product de
 
 This decision is a huge risk. And failure is not an option for there is no other way.
 
-But I installed eternal courage--courage that is ever present--into this great system that I'm making and using.
+But fret not for I have installed eternal courage--courage that is ever present--into this great system that I'm making and using.
 
 Cognitive distortions and cognitive biases frequently create distortions of realities and unfavorable actions, but eternal courage is always there to resolve them.
 
