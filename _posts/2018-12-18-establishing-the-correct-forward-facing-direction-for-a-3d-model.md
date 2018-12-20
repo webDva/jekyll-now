@@ -9,7 +9,7 @@ In the picture below, the mesh's forward facing direction is incorrect as the ch
 
 ![Undesired mesh orientation](/assets/images/improper_babylon_direction.PNG "Mesh facing the wrong direction")
 
-The next picture shows the correct direction for the mesh to have for its forward facing direction.
+The next picture shows the correct direction for the mesh to have for its forward facing direction with the back of the 3D character facing the camera.
 
 ![Desired mesh orientation](/assets/images/proper_babylon_direction.PNG "The correct direction to face in")
 
