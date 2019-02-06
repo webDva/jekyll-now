@@ -3,7 +3,7 @@ layout: post
 title: A Very Brief Introduction to the Construction of Shaders
 ---
 
-This codex entry functions as documentation and as a reference manual for me when I create shaders. Note that there may be some discrepancies between the actual science of shaders and what is presented here in this material but it still suffices as a resource.
+This codex entry functions as documentation and as a reference manual for me when I create shaders. Note that there may be some discrepancies but it still suffices as a resource.
 
 # Fundamentals
 
