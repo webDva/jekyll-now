@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A Very Brief Introduction to the Construction of Shaders
+summary: A crash course for learning shaders.
+image: /assets/images/removed_bloom_and_fog.gif
 ---
 
 This codex entry functions as documentation and as a reference manual for me when I create shaders. Note that there may be some discrepancies but it still suffices as a resource.
