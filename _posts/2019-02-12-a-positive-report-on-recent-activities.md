@@ -17,7 +17,7 @@ I'm pretty hardcore. I'm a pretty hardcore entrepreneur.
 
 # What I've been up to
 
-![3D space movement](/assets/images/3d_movement_engine.gif "Making a server-side 3D multiplayer game engine.")
+![3D space movement](/assets/images/3d_movement_progress.gif "Making a server-side 3D multiplayer game engine.")
 
 I began learning how to do orientations and rotations in three dimensions (even though I [remarked](/a-consideration-on-server-side-physics-for-a-3d-multiplayer-game-regarding-rotations-in-3d-space/) about such a thing). I want to make a game where the player call roll, pitch, and yaw. That's one of my tasks right now, learning how to achieve that effect.
 
