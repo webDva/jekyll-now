@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name's webdva. I'm a kind individual who's passionate about engineering and committed to building a future of prosperity.
+My name's webdva (or Jermaine Easterling). I'm a kind individual who's passionate about engineering and committed to building a future of prosperity.
 
 This website is my public digital codex where I record my technical and commercial activities.
 
