@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Innovator's resolve
+title: Innovator's Resolve
 ---
 
 So far, I'm failing. Badly. But know that there exists state variables that I can use for my benefit.
 
-My number of Twitter followers is steadily decreasing. My brand may be damaged beyond repair as though I were Uber. I'm having trouble maintaining a high marketing operations tempo. I'm struggling to rapidly grow my startups.
+My number of Twitter followers is steadily decreasing. My brand may be damaged beyond repair as though I were Uber, the infamous transportation network company. I'm having trouble maintaining a high marketing operations tempo. I'm struggling to rapidly grow my startups.
 
 But I have the courage and the commitment to keep going--to succeed in this new space. I want to reap the benefits of having this unique startup experience. I have a vision to execute. It may fade away, but I endeavor to hold it in my heart as I do not wish to let it go.
 
