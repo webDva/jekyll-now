@@ -15,8 +15,6 @@ I disabled the [Baka Youtube to MP3 Converter](http://www.bakayoutube.com/) and 
 
 My forty-year aspirations of a much better lifestyle are still in effect. Anomalies and pivots may occur, but with strength, heart, faith, and an ethos of excellence may I converge to the global optimum of prosperity.
 
-After that forty-year campaign is completed, a new one shall begin. I will conquer others as I will have conquered myself. My should statements that I will apply to myself and others will know no bounds.
-
 I have negative total income like Elon Musk's Tesla company and while I'm not a billionaire like him, I still have a billion strength points. These stats that I have will help me as I have a high difficulty score. This new lifestyle requires me to solve multiple hard problems simultaneously, so I must not forget to cultivate that ability.
 
 # *Pantsu versus Baka*
