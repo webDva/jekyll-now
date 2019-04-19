@@ -105,7 +105,7 @@ These two shaders are actually used to create a selection circle, a graphical ef
 
 ![Selection circle example](/assets/images/removed_bloom_and_fog.gif "An example of a selection circle")
 
-The theory for creating a target selection circle was obtained using this resource: [link](https://gamedev.stackexchange.com/a/141846). The goal is to obtain all the verices on a horizontal plane that are of a certain distance from the center of the target and then to color the collected vertices. As a selection ring, the width of the line of the ring must be greater than one pixel so that it may be noticed which was not specified in the resource.
+The theory for creating a target selection circle was obtained using this resource: [link](https://gamedev.stackexchange.com/a/141846). The goal is to obtain all the verices on a horizontal plane that are of a certain distance from the center of the target and then to color the collected vertices. As a selection ring, the width of the line of the ring must be greater than one pixel so that it may be noticed, which was not specified in the resource.
 
 # `uniform float time;`
 
