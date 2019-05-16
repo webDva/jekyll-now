@@ -6,7 +6,7 @@ use_math: true
 
 Do the right thing.
 
-I long for the day when I can say "やった！" And so I endeavor to accomplish the Proserity program's objective. And as only I can construct the bridge of the river of life on which I must cross, this entry categorizes great knowledge.
+I long for the day when I can say "やった！" And so I endeavor to accomplish the Prosperity program's objective. And as only I can construct the bridge of the river of life on which I must cross, this entry categorizes great knowledge.
 
 I'm endeavoring to achieve a local optimum of prosperity. It is an extremely modest goal, but let us not forget that this noble endeavor is an investment in the future--a future that we are committed to engineer to be one of great prosperity.
 
@@ -28,13 +28,13 @@ We seek to be at places that we've never been before. And so the world requires 
 
 We are often required by the world to uphold the faith that we are right in our actions and that those actions are in fact bearing great fruit for us. If that faith must become an ideal to champion, then so be it. Such is the path of the free spirit--the commander and lawgiver of life.
 
-Regarding our competitors who may be, from the start, permanently stuck in local optima, we often gaze upon them when we raise our heads from our labors. They are people who may lack fitness--courage and strength, unable to command and create laws. Might we have compassion for these poor creatures as the sight of them is often too painful to bear and may we, more importantly, resist their words and philosophies (or those of spectators who speak yet they too are chained to local optima and thus speak with a distorted view of the truth, bearing no use for us) with the great constitutions and resolves that we bear.
+Regarding our competitors who may be, from the start, permanently stuck in local optima, we often gaze upon them when we raise our heads from our labors. They are people who may lack fitness--courage and strength, unable to command and create laws. Might we have compassion for these poor creatures as the sight of them is often too painful to bear and let us, more importantly, resist their words and philosophies (or those of spectators who speak yet they too are chained to local optima and thus speak with a distorted view of the truth, bearing no use for us) with the great constitutions and resolves that we bear.
 
 Speaking of great, pitiful weakness and inferiority, let us not value patience as a virtue for it is only resignation and an admittance of a lack of strength. I myself am forced to be patient--bearing great weakness--as I have just begun on the advanced path of entrepreneurship that I walk, even with the one year of experience and time that I have. It is easy to resign, especially on a path of such profoundness, but to resign is to not do the right thing. To resign in technology entrepreneurship is to do the wrong thing, unlike the right thing, such as, once embarked, continuing to progress in obtaining greater scientific and engineering capabilities--the seeking of greater strength.
 
 And it is all for my love. It involves a future of nondominated states.
 
-Once convergence to a local optimum of prosperity has been achieved, a nondominated solution of unprecedented values will also have been reached, just as I seek to achieve the same success that the astronauts of yore enjoyed during their conflict of the cold many years ago. May my own program of great labor, the Prosperity program, become as historic as those astronauts' feat of landing on another heavenly body. I hope to achieve the same success as the Apollo program in this paradigm of technology entrepreneurship. I will be over the moon once revenue has been established as the Prosperity program's goal is to facilitate divergence from a dominated socioeconomic status.
+Once convergence to a local optimum of prosperity has been achieved, a nondominated solution of unprecedented values will also have been reached, just as I seek to achieve the same success that the astronauts of yore enjoyed during their conflict of the cold many years ago. May my own program of great labor, the Prosperity program, become as historic as those astronauts' feat of landing on another heavenly body. I hope to achieve the same kind of success as the Apollo program in this paradigm of technology entrepreneurship. I will be over the moon once revenue has been established as the Prosperity program's goal is to facilitate divergence from a dominated socioeconomic status.
 
 Might you join me in this journey, scholar of the future? And you, free spirit, as an ally for we both bear the same constitutions and ambitions?
 
