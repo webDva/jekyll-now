@@ -45,4 +45,4 @@ Furthermore, this development log isn't really a high utility factor as my likel
 
 Now, I currently have two great problems to solve.
 
-As I am, first and foremost, an entrepreneur who treads an extraordinary path with a powerful mind and will, who (as in what market) should I serve? And what (as in what game product) should I make for them?
+As I am, first and foremost, an entrepreneur who treads an extraordinary path with a powerful mind and will, whom (as in what market) should I serve? And what (as in what game product) should I make for them?
