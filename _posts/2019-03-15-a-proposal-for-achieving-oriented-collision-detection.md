@@ -36,6 +36,6 @@ I do not know if such a method or solution will achieve its intended effect and 
 
 # Practical considerations
 
-However, real world constraints currently prevent such an action of experimentation from being easily performed, such as not having the privilege of a testing space or environment and being limited by the Prosperity program's driving time constraint which must be considered in all decisions.
+However, real world constraints currently prevent such an action of experimentation from being easily performed, such as not having the privilege of a testing space or environment, with using pen and paper being the best that I can do right now, and being limited by the Prosperity program's driving time constraint which must be considered in all decisions.
 
 Note, though, that the driving time constraint can allow the resulting flexible performance constraint to be exploited, such as by allowing the decision maker (me) to deem inaccurate collision detection to be acceptable which may result in orientations in the collision detection system not be accounted for at all, for example.
