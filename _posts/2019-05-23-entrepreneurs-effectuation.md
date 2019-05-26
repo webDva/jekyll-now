@@ -29,7 +29,7 @@ The answer is nothing because I only care for the solution which involves nondom
 
 And to make nothing, and for no one, would facilitate convergence to those nondominated values--because the making of a product à la as an indie maker is but one general means to the end of those values that I have a strong passion for.
 
-I have other means--present effects with which to use for my benefit which is, ultimately, a nondominated solution to a multiobjective optimization problem.
+I have other means--present effects with which to use for my benefit which is, ultimately, a nondominated solution to a multiobjective function optimization problem.
 
 What is one such means?
 
