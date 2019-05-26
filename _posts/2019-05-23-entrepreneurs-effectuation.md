@@ -19,7 +19,7 @@ But let us not end the party just yet, okay?
 
 I can still leverage what I have and have achieved, present effects borne from my toils and the past. Else I would be a really bad startup founder if I didn't have such a process of effectuation.
 
-This negative utility factor of the success I seek that lasted for so long, that unanswered yet important question, can be resolved and indemnified by a positive utility factor. But first, I must provide the coveted answer to the thought provoking question: what do I make and for whom?
+This negative utility factor of the success I seek that lasted for so long, that unanswered yet important question, can be resolved and indemnified by a positive utility factor. But first, I must provide the coveted answer to the thought provoking question: what should I make and for whom?
 
 The answer? The *right* answer?
 
