@@ -10,7 +10,7 @@ What is the emergence of a mechanization of mathematical power? It is not an *at
 
 # About *me*
 
-My name's *webdva* (or Jermaine Easterling). I'm a kind individual who's passionate about engineering and committed to building a future of prosperity for everyone and the world.
+My name's *webdva* (or Jermaine Easterling). I'm a kind individual who's passionate about engineering and committed to building a future of prosperity for everyone and the world. One of my favorite hobbies is researching and learning about the combination of economics and philosophy. Currently, I'm studying non-convex mathematical optimization and I hope that it benefits people.
 
 ## Contact
 
