@@ -51,6 +51,11 @@ h1 {
   }
 }
 
+.page > h1, h1.inner-title {
+  font-size: 48px;
+  font-family: $georgia;
+}
+
 h2 {
   font-size: 32px;
 }
