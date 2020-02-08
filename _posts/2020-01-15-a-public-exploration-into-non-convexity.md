@@ -17,7 +17,7 @@ The solution strategy of committing to a local optimization of a non-convex func
 
 which means that the measured distance metric of the gradient of a function ƒ must grow as fast as an arbitrary function value V(μ) = 2μ that scales a displacement of an optimal function value ƒ*. This assumption requires gradient information which is not always available to engineering organizations or mathematical optimization practitioners, especially as the computation of differential equations usually requires statistics to be performed on large amounts of data. Perhaps there exists a structure or method that is isomorphic to the essence of the gradient being and thus there is a suitable alternative for underserved populations.
 
-Let X be a convex set. Such requires a vector space S over some ordered field (an ordering, such as a ≼ b, is prerequisite for defining supreme (minimal and maximal) elements). The subset X ⊂ S thus has for all x and y in X, and t in the interval [0, 1], the affine combination tx + (1 - t)y.
+Let X be a convex set. Such requires a vector space S over some ordered field (an ordering, such as a ≼ b, is prerequisite for defining supreme (minimal and maximal) elements). The subset X ⊂ S thus has for all x and y in X, and t in the interval [0, 1], the affine combination tx + (1 - t)y ∈ X.
 
 Fortunately, an antithetical to convexity set is simply non-convex if it is not convex.
 
